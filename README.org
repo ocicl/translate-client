@@ -1,0 +1,10 @@
+* translate-client
+
+A translate server client for interfacing with a web server such as google translate
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/aarvid/translate-client.git   |
+| commit  | 74e2d80  |
+| systems | translate-client |
+|---------+-------------------------------------------|
+
